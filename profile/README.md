@@ -1,12 +1,26 @@
 ## Hi there 👋
+![Logo](Logo.png)
 
-<!--
+# Projects
 
-**Here are some ideas to get you started:**
+Different App projects for the Google-Playstore.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## My GPS Coordinates
+
+My GPS - Coordinates is a simple and easy-to-use app that lets you retrieve, save and share your current GPS coordinates. With the app you can capture your current position anytime, anywhere and view it on a map. You can also export your coordinates as a GPX file and share them with others via email, SMS or social media.
+
+ 
+
+## Hera - Emergency SMS App
+
+Imagine you are in an emergency situation and you don't have much time or strength to call your contacts or write them a message. To make this easier you can press the emergency button in the Hera app and it will automatically send an SMS to your contacts, in which the current location is also sent.
+
+
+The location can be sent either as position coordinates or as a Google Maps link to show your emergency contact your position directly on the map.
+
+In addition to the SMS, an alarm tone can also be played to draw attention to yourself acoustically.
+In addition to sending the location data, the position can also be displayed and shared, e.g. via WhatsApp.
+
+# Support Me
+
+You can Support me on BuyMeACoffee:

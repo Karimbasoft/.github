@@ -1,9 +1,9 @@
 
 ![Logo](Logo.png)
 
-# Projects
+👋 Hello there! 
 
-Different App projects for the Google-Playstore.
+I spend a part of my free time crafting enjoyable and practical apps, all available on the Play Store. Some of them are listed below :)
 
 ## My GPS Coordinates
 
